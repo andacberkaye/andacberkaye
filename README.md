@@ -1,52 +1,42 @@
-<h1 align="center">Hi there 👋, I'm Andaç Berkaye!</h1>
-<p align="center">🎓 Computer Programmer | 🧠 Lifelong Learner | 🛠️ Code Tinkerer | 📚 Book Lover</p>
-
----
-
-### 🚀 About Me
-
-- 👨‍💻 I’m a computer programmer students in Istanbul Aydın Universty who loves solving problems by **writing code from scratch**, especially when it comes to math and logic.
-- 🧮 I'm building a custom math library using Python — no shortcuts, no `sum()`, just pure algorithmic fun.
-- 📊 I enjoy working with **Java**, **Python**, **C#**, and **SQL**, and I'm always exploring more.
-
----
-
-### 🧰 Tech Stack
-
-```bash
-Languages:    Python · Java · C# · SQL  
-Tools:        Git · GitHub · VS Code · PyCharm  
-Concepts:     OOP · Algorithms · Clean Code · CLI Tools
-```
-
----
-
-### 📌 Highlighted Projects
-
-- 🔢 **Custom Math Library**  
-  Build your own calculator, learn how math works at the root level. No built-in magic.
-
-- 📄 **CV Analyzer App (Coming Soon)**  
-  Upload your CV and get categorized, scalable skill insights in seconds!
-
-- 💻 More coming soon...
-
----
-
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=andacberkaye&layout=compact&theme=default" alt="top langs" />
+<p align="right">
+  <img src="https://img.shields.io/badge/Code%20Time-7%2F24%20Active-ff6600" alt="Code Time" />
 </p>
 
+
+
+```python
+class SoftwareEngineer:
+    def __init__(self):
+        self.name = "Andaç Berkay Ekren"
+        self.role = "Full Stack Developer"
+        self.code_language = ["Java", "Python", "SQL", "C#"]
+        self.tools = ["Linux", "Git", "Kotlin", "Numpy", "Pandas", "Tensorflow", "Matplotlib", "Microsoft SQL Server"]
+        self.language_spoken = ["tr_TR", "en_EN"]
+        
+    def say_hi(self):
+        print("You can get more information about me from the links below.")
+        
+me = SoftwareEngineer()
+me.say_hi()
+```
 ---
 
-### 📬 Let's Connect!
+<h1>:octocat: How to Reach Me </h1>
 
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andaç-e-783134215/)
 - [![YouTube](https://img.shields.io/badge/YouTube-FF0000?logo=youtube&logoColor=white)](https://www.youtube.com/@aberkayekren)
-- 📫 You can also reach me via issues or discussions on any of my projects!
+- [![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-FE7A16?logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/19333732/andaç-berkay-ekren)
+- [![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white)](https://www.instagram.com/andacberkayekren/)
 
 ---
 
-<p align="right"> “The best way to predict the future is to invent it.” – Alan Kay </p>
+### Most Used Languages
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andacberkaye&layout=donut-vertical&theme=default)](https://github.com/andacberkaye)
+
+---
+
+<p align="right" style="margin-bottom: 0;">
+  <em>"And, when you want something, all the universe conspires in helping you to achieve it."</em><br>
+  — Paulo Coelho, <strong>The Alchemist</strong>
+</p>
