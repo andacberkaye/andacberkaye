@@ -36,7 +36,3 @@ me.say_hi()
 
 ---
 
-<p align="right" style="margin-bottom: 0;">
-  <em>"And, when you want something, all the universe conspires in helping you to achieve it."</em><br>
-  — Paulo Coelho, <strong>The Alchemist</strong>
-</p>
