@@ -9,7 +9,7 @@ class SoftwareEngineer:
     def __init__(self):
         self.name = "Andaç Berkay Ekren"
         self.role = "Full Stack Developer"
-        self.code_language = ["Java", "Python", "SQL", "C#"]
+        self.code_language = ["WEB3", "Java", "Python", "SQL", "C#"]
         self.tools = ["Linux", "Git", "Kotlin", "Numpy", "Pandas", "Tensorflow", "Matplotlib", "Microsoft SQL Server"]
         self.language_spoken = ["tr_TR", "en_EN"]
         
