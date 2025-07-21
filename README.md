@@ -9,8 +9,8 @@ class SoftwareEngineer:
     def __init__(self):
         self.name = "Andaç Berkay Ekren"
         self.role = "Full Stack Developer"
-        self.code_language = ["WEB3", "Java", "Python", "SQL", "C#"]
-        self.tools = ["Linux", "Git", "Kotlin", "Numpy", "Pandas", "Tensorflow", "Matplotlib", "Microsoft SQL Server"]
+        self.code_language = ["Python", "Javascript", "Flutter", "SQL", "C#", "Bash Script"]
+        self.tools = ["Linux", "Git", "RabbitMQ", "Numpy", "Pandas", "Tensorflow", "Matplotlib", "Microsoft SQL Server", "SQLite3", "MongoDB", "MySql","Node.js", "Express.js"]
         self.language_spoken = ["tr_TR", "en_EN"]
         
     def say_hi(self):
