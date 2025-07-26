@@ -10,7 +10,7 @@ class SoftwareEngineer:
         self.name = "Andaç Berkay Ekren"
         self.role = "Full Stack Developer"
         self.code_language = ["Python", "Javascript", "Flutter", "SQL", "C#", "Bash Script"]
-        self.tools = ["Linux", "Git", "RabbitMQ", "Numpy", "Pandas", "Tensorflow", "Matplotlib", "Microsoft SQL Server", "SQLite3", "MongoDB", "MySql","Node.js", "Express.js"]
+        self.tools = ["Linux", "Git", "RabbitMQ", "Numpy", "Pandas", "Tensorflow", "Matplotlib", "Django", "Flask", "Selenium", "Microsoft SQL Server", "SQLite3", "MongoDB", "MySql","Node.js", "Express.js", "Postman", "SwaggerUİ"]
         self.language_spoken = ["tr_TR", "en_EN"]
         
     def say_hi(self):
